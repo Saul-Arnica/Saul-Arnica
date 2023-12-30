@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saul-Arnica
 - 👀 I’m interested in learning the back-end and front-end sector
 - 🌱 I’m currently learning Bachelor’s degree in Information Systems
-- 💞️ I’m looking to collaborate on nowhere at the moment
+- 💞️ I’m looking to collaborate on anywhere at the moment
 - 📫 How to reach me: saulagustinarnica@outlook.com
 
 <!---
