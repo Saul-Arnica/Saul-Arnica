@@ -36,13 +36,7 @@
 
 - ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/saul-agustin-arnica-ar/
 
-- [![Years Badge](https://badges.pufler.dev/years/pujux)](https://badges.pufler.dev/years/{Saul-Arnica}) [![Repos Badge](https://badges.pufler.dev/repos/pujux)](https://badges.pufler.dev/repos/{Saul-Arnica}) [![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)] (https://badges.pufler.dev/visits/{Saul-Arnica}/{[repo](https://github.com/Saul-Arnica/Saul-Arnica)})
-
-- 👋 Hi, I’m @Saul-Arnica
-- 👀 I’m interested in learning the back-end and front-end sector
-- 🌱 I’m currently learning Bachelor’s degree in Information Systems
-- 💞️ I’m looking to collaborate on anywhere at the moment
-- 📫 How to reach me: saulagustinarnica@outlook.com
+- [![Years Badge](https://badges.pufler.dev/years/pujux)](https://badges.pufler.dev/years/{Saul-Arnica}) [![Repos Badge](https://badges.pufler.dev/repos/pujux)](https://badges.pufler.dev/repos/{Saul-Arnica}) [![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)] (https://badges.pufler.dev/visits/{Saul-Arnica}/{[Saul-Arnica]})
 
 <!---
 Saul-Arnica/Saul-Arnica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
