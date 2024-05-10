@@ -9,7 +9,7 @@
 - I have knowledge about:
 
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white).
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 - I´m familiar with the following work environments:
 - Personally and group:
@@ -36,7 +36,7 @@
 
 - ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/saul-agustin-arnica-ar/
 
-- [![Years Badge](https://badges.pufler.dev/years/pujux)](https://badges.pufler.dev/years/{Saul-Arnica}) [![Repos Badge](https://badges.pufler.dev/repos/pujux)](https://badges.pufler.dev/repos/{Saul-Arnica})
+- [![Years Badge](https://badges.pufler.dev/years/pujux)](https://badges.pufler.dev/years/{Saul-Arnica}) [![Repos Badge](https://badges.pufler.dev/repos/pujux)](https://badges.pufler.dev/repos/{Saul-Arnica}) [![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)] (https://badges.pufler.dev/visits/{Saul-Arnica}/{[repo](https://github.com/Saul-Arnica/Saul-Arnica)})
 
 - 👋 Hi, I’m @Saul-Arnica
 - 👀 I’m interested in learning the back-end and front-end sector
