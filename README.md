@@ -36,7 +36,7 @@
 
 - ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/saul-agustin-arnica-ar/
 
-[![Repos Badge](https://badges.pufler.dev/repos/pujux)](https://badges.pufler.dev/repos/{Saul-Arnica})
+- [![Years Badge](https://badges.pufler.dev/years/pujux)](https://badges.pufler.dev/years/{Saul-Arnica}) [![Repos Badge](https://badges.pufler.dev/repos/pujux)](https://badges.pufler.dev/repos/{Saul-Arnica})
 
 - 👋 Hi, I’m @Saul-Arnica
 - 👀 I’m interested in learning the back-end and front-end sector
