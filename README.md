@@ -1,6 +1,6 @@
 - 👋 Hi! I´m @Saul-Arnica and welcome to my ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-- 🌱 I´m a University student´s Degree in Information Systems actually currently in the 2nd year in Argentina FaCENNA.
+- 🌱 I´m a University student´s Degree in Information Systems actually currently in the 2nd and 3th year in Argentina FaCENNA.
 
 - I´m currently self-taught in the following tools or technologies:
 
